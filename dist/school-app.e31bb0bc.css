@@ -1,0 +1,31 @@
+.imgContainer {
+    width: 60%;
+    height: 40%;
+    margin-left: 20%;
+    margin-top: 7.5%;
+    text-align: center;
+    padding: 10px;
+}
+
+.header {
+    font-family: 'Apple Chancery', cursive;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.picOption {
+    margin:15px;
+    width:25%;
+    transition: .5s;
+}
+
+.picOption:hover {
+    width:30%;
+}
+
+#canvas {
+    margin-top: 15%;
+    /* margin-left:40%; */
+}
+
+/*# sourceMappingURL=/school-app.e31bb0bc.css.map */
